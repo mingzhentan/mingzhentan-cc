@@ -149,7 +149,7 @@ img {
     /* position: absolute; */
     bottom: 0;
     width: 100%;
-    height: 80px;
+    height: 120px;
     background-color: #04021c/*#2d3436*/;
     color: #e0e0e0;
 }
@@ -174,6 +174,18 @@ No media query since this is the default in Bootstrap because it is "mobile firs
     .box-container-90 {
         width: 100%;
         margin-left: 0%;
+    }
+
+    .hust {
+        margin-top: 10%;
+        margin-left: 10%;
+        width: 100%;
+    }
+    
+    .sustech {
+        margin-top: 10%;
+        margin-left: 10%;
+        width: 100%;
     }
 }
  
@@ -216,13 +228,13 @@ No media query since this is the default in Bootstrap because it is "mobile firs
 /* Large devices (desktops, 992px and up) */
 @media (min-width: 992px) {
     .hust {
-        margin-top: 5%;
+        margin-top: 6%;
         margin-left: 10%;
         width: 60%;
     }
 
     .sustech {
-        margin-top: 5%;
+        margin-top: 6%;
         margin-left: 10%;
         width: 60%;
     }
