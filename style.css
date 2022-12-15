@@ -107,53 +107,6 @@ img {
     margin-left: 5%;
 }
 
-/*-------- Undergraduate --------*/
-.focus {
-    float: right;
-    width: 70%;
-    height: 70%;
-    filter: brightness(0.95);
-    border-radius: 10px;
-    box-shadow: 0px 10px 50px rgba(0, 0, 0, 0.6);
-    margin-left: 15%;
-}
-
-.focus-container {
-    width: 92%;
-    margin-left: 4%;
-}
-
-/*-------- Graduate --------*/
-
-.bicover-container {
-    width: 92%;
-    margin-left: 4%;
-}
-
-.bicover {
-   width: 80%;
-   height: 80%;
-   margin-left: 10%;
-}
-
-/*-------- Ph.D. --------*/
-
-.attack {
-    /* width: 50%; */
-    border-radius: 2%;
-    box-shadow: 2px 2px 3px 3px #AAA;
-}
-
-.carla {
-    float: right;
-    width: 80%;
-    height: 80%;
-    filter: brightness(0.95);
-    border-radius: 10px;
-    box-shadow: 0px 10px 50px rgba(0, 0, 0, 0.6);
-    margin-left: 10%;
-}
-
 /*-------- Seperator --------*/
 
 .separator {
@@ -178,136 +131,25 @@ img {
     margin-left: .25em;
 }
 
-/*--------  Future Skills --------*/
-
-.box-skill {
-    width: 90%;
-    margin-left: 5%;
-}
-
-#future h1, h2, h3 {
-    font-weight: 300;
-    text-transform: uppercase;
-}
-
-#future h1 {
-    margin: 0;
-    color: #FFF;
-    font-size: 240%;
-    letter-spacing: 1px;
-    word-spacing: 3px;
-}
-
-#future h2 {
-    font-size: 180%;
-    text-align: center;
-    margin-bottom: 30px;
-    letter-spacing: 1px;
-    word-spacing: 2px;
-}
-
-#future h3 {
-    font-size: 95%;
-    margin: 10px;
-}
-
-#future h4 {
-    margin: 5px;
-    font-size: 80%;
-    font-weight: 600;
-    letter-spacing: 1px;
-}
-
-.icon-small {
-    display: inline-block;
-    width: 30px;
-    color: #e67e22;
-    font-size: 120%;
-    margin-left: 8px;
-    margin-right: -12px;
-    line-height: 120%;
-    vertical-align: middle;
-    margin-top: -5px;
-}
-
-.avatar {
-    border-bottom: #333 solid 2px;
-    font-size: 120%;
-}
-
-.skill-box {
-    background-color: #fff;
-    border-radius: 5px;
-    box-shadow: 2px 2px 3px 3px #efefef;
-}
-
-.skill-box ul {
-    list-style: none;
-    margin: 0; 
-    padding:0;
-}
-
-.skill-box div:first-child {
-    background-color: #f8f8f8;
-    border-top-left-radius: 5px;
-    border-top-right-radius: 5px;
-    text-align: center;
-    padding: 1%;
-}
-
-.skill-box p {
-    margin: 2% 5%;
-    font-size: 100%;
-    text-align: justify;
-    line-height: 142%;
-    word-spacing: 1px;
-    background-color: #fff;
-    font-weight: 400;
-}
-
-blockquote {
-    padding: 1%;
-    font-size: 85%;
-    font-style: italic;
-    text-align: center;
-    line-height: 145%;
-    position: relative;
-    word-spacing: 2px;
-    margin: 0px 0px 0.5rem;
-    background-color: #f8f8f8;
-}
-
 /*-------- Footer --------*/
 
 .hust {
-    margin-top: 1%;
-    margin-left: 20%;
-    width: 80%;
+    margin-top: 12%;
+    margin-left: 10%;
+    width: 100%;
 }
 
-.tpl {
-    margin-top: 1%;
-    margin-left: 50%;
-    width: 90%;
-}
-
-.trustai {
-    margin-top: 3%;
-    margin-left: 15%;
-    width: 70%;
-}
-
-.exeter {
-    margin-top: 4%;
-    margin-left: 25%;
-    width: 50%;
+.sustech {
+    margin-top: 12%;
+    margin-left: 10%;
+    width: 100%;
 }
 
 .footer {
     /* position: absolute; */
     bottom: 0;
     width: 100%;
-    height: 120px;
+    height: 80px;
     background-color: #04021c/*#2d3436*/;
     color: #e0e0e0;
 }
@@ -357,51 +199,10 @@ No media query since this is the default in Bootstrap because it is "mobile firs
         display: block;
     }
 
-    #phd .adv {
-        width: 100%;
-    }
-
-    /*-------- Undergraduate --------*/
-    .focus-container {
-        width: 100%;
-        margin-left: auto;
-    }
-
-    /*-------- Graduate --------*/
-
-    .bicover-container {
-        width: 100%;
-        margin-left: auto;
-    } 
-
     /*-------- Footer --------*/
 
     .footer {
         height: 120px;
-    }
-
-    .hust {
-        margin-top: 5%;
-        margin-left: 20%;
-        width: 90%;
-    }
-
-    .tpl {
-        margin-top: 5%;
-        margin-left: 50%;
-        width: 90%;
-    }
-
-    .trustai {
-        margin-top: 5%;
-        margin-left: 15%;
-        width: 70%;
-    }
-
-    .exeter {
-        margin-top: 7%;
-        margin-left: 25%;
-        width: 50%;
     }
 
     .home-avatar {
@@ -413,7 +214,17 @@ No media query since this is the default in Bootstrap because it is "mobile firs
  
 /* Large devices (desktops, 992px and up) */
 @media (min-width: 992px) {
+    .hust {
+        margin-top: 5%;
+        margin-left: 10%;
+        width: 60%;
+    }
 
+    .sustech {
+        margin-top: 5%;
+        margin-left: 10%;
+        width: 60%;
+    }
 }
  
 /* Extra large devices (large desktops, 1200px and up) */

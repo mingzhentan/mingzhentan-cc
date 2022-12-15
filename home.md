@@ -8,13 +8,13 @@ Postdoc at Southern University of Science and Technology.
 
 #### Latest
 
-- [SUSTech]((https://www.researchgate.net/institution/Southern-University-of-Science-and-Technology)) - Department of Mechanics and Aerospace Engineering.
+- [SUSTech](https://www.researchgate.net/institution/Southern-University-of-Science-and-Technology) - Department of Mechanics and Aerospace Engineering.
 
 --------
 
 #### Education
 
-- [2021-2023] **Postdoc** at [Southern University of Science and Technology](Southern University of Science and Technology), China.
+- [2021-2023] **Postdoc** at [Southern University of Science and Technology](https://www.sustech.edu.cn/en/), China.
 - [2016-2021] **Ph.D.** in Engineering Thermal Physics, [Huazhong University of Science and Technology](http://tpl.energy.hust.edu.cn/), China.
 - [2012-2016] **B.Eng.** in Energy and Power Engineering, [Huazhong University of Science and Technology](https://www.hust.edu.cn/), China.
 
