@@ -36,4 +36,6 @@ Graded thermal conductivity in 2D and 3D homogeneous hotspot systems](https://ww
 <!--  -->
 - [2019] [Discrete unified gas kinetic scheme for multiscale heat transfer with arbitrary temperature difference](https://www.sciencedirect.com/science/article/abs/pii/S0017931018353031?via%3Dihub).
 - [2019] [An implicit kinetic scheme for multiscale heat transfer problem accounting for phonon dispersion and polarization](https://www.sciencedirect.com/science/article/abs/pii/S0017931018329636?via%3Dihub).
+<!--  -->
+- [2017] [Unified implicit kinetic scheme for steady multiscale heat transfer based on the phonon Boltzmann transport equation](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.96.063311).
 <br/>
