@@ -158,10 +158,21 @@ img {
 Extra small devices (portrait phones, less than 576px) 
 No media query since this is the default in Bootstrap because it is "mobile first"
 */
- 
+
+@media (min-width: 300px) { 
+    .footer {
+        height: 60px;
+    }
+}
+
+@media (min-width: 423px) { 
+    .footer {
+        height: 80px;
+    }
+}
  
 /* Small devices (landscape phones, 576px and up) */
-@media (min-width: 576px) {  
+@media (min-width: 523px) {  
     html, body {
         font-size: 12px;
     }
@@ -174,6 +185,10 @@ No media query since this is the default in Bootstrap because it is "mobile firs
     .box-container-90 {
         width: 100%;
         margin-left: 0%;
+    }
+
+    .footer {
+        height: 100px;
     }
 
     .hust {
@@ -214,7 +229,7 @@ No media query since this is the default in Bootstrap because it is "mobile firs
     /*-------- Footer --------*/
 
     .footer {
-        height: 120px;
+        height: 100px;
     }
 
     .home-avatar {
@@ -223,6 +238,17 @@ No media query since this is the default in Bootstrap because it is "mobile firs
         width: 80%;
     }
 
+    .hust {
+        margin-top: 6%;
+        margin-left: 10%;
+        width: 90%;
+    }
+    
+    .sustech {
+        margin-top: 6%;
+        margin-left: 10%;
+        width: 90%;
+    }
 }
  
 /* Large devices (desktops, 992px and up) */
@@ -242,7 +268,17 @@ No media query since this is the default in Bootstrap because it is "mobile firs
  
 /* Extra large devices (large desktops, 1200px and up) */
 @media (min-width: 1200px) {
+    .hust {
+        margin-top: 4%;
+        margin-left: 10%;
+        width: 60%;
+    }
 
+    .sustech {
+        margin-top: 4%;
+        margin-left: 10%;
+        width: 60%;
+    }
 }
 
 /* Extra large devices (large desktops, 1200px and up) */
