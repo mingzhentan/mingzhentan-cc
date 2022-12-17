@@ -30,9 +30,12 @@ Postdoc at Southern University of Science and Technology.
 - [2021] [Chuang Zhang, Songze Chen, Zhaoli Guo*.Heat vortices of ballistic and hydrodynamic phonon transport in two-dimensional materials. International Journal of Heat and Mass Transfer, 2021, 176: 121282](https://www.sciencedirect.com/science/article/abs/pii/S0017931021003859?via%3Dihub).
 - [2021] [Chuang Zhang, Songze Chen, Zhaoli Guo*, Lei Wu*. A fast synthetic iterative scheme for the stationary phonon Boltzmann transport equation. International Journal of Heat and Mass Transfer, 2021, 174: 121308](https://www.sciencedirect.com/science/article/abs/pii/S0017931021004117?via%3Dihub).
 <!--  -->
+- [2020] [Xinliang Song, Chuang Zhang, Xiafeng Zhou, Zhaoli Guo*. Discrete unified gas kinetic scheme for multiscale anisotropic radiative heat transfer. Advances in Aerodynamics (2020) 2:3](https://aia.springeropen.com/articles/10.1186/s42774-019-0026-3).
+- [2020] [Man-Yu Shang, Chuang Zhang, Zhaoli Guo*, Jing-Tao Lü*. Heat vortex in hydrodynamic phonon transport of two-dimensional materials. Scientific Reports. 2020, 10:8272](https://www.nature.com/articles/s41598-020-65221-8).
 - [2020] [Chuang Zhang, Meng An, Zhaoli Guo, Songze Chen*. Perturbation theory of thermal rectification. Physical Review E 102, 042106 (2020)](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.102.042106).
 - [2020] [Chuang Zhang, Zhaoli Guo, Songze Chen*. Radial thermal rectification in concentric silicon ring from ballistic to diffusive regime. International Journal of Heat and Mass Transfer, 2020, 153: 0017-9310](https://www.sciencedirect.com/science/article/abs/pii/S0017931020305007?via%3Dihub).
 <!--  -->
+- [2019] [姚博，张创，郭照立． 考虑分子转动自由度的离散统一气体动理学格式．航空学报，2019, 40 (7): 122914]([https://www.sciencedirect.com/science/article/abs/pii/S0017931018329636?via%3Dihub](https://hkxb.buaa.edu.cn/CN/10.7527/S1000-6893.2019.22914)).
 - [2019] [Chuang Zhang, Zhaoli Guo*. Discrete unified gas kinetic scheme for multiscale heat transfer with arbitrary temperature difference. International Journal of Heat and Mass Transfer, 2019, 134: 1127-1136](https://www.sciencedirect.com/science/article/abs/pii/S0017931018353031?via%3Dihub).
 - [2019] [Chuang Zhang, Zhaoli Guo, Songze Chen*. An implicit kinetic scheme for multiscale heat transfer problem accounting for phonon dispersion and polarization. International Journal of Heat and Mass Transfer, 2019, 130: 1366-1376](https://www.sciencedirect.com/science/article/abs/pii/S0017931018329636?via%3Dihub).
 <!--  -->
