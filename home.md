@@ -1,4 +1,4 @@
-## Multi-scale and Multi-physics Coupling Heat Transfer
+## Mesoscopic particle transport
 
 ---------
 
@@ -17,6 +17,10 @@ Postdoc at Southern University of Science and Technology.
 - [2021-2023] **Postdoc** at [Southern University of Science and Technology](https://www.sustech.edu.cn/en/), China. Advisor: Lei Wu.
 - [2016-2021] **Ph.D.** in Engineering Thermal Physics, [Huazhong University of Science and Technology](https://www.hust.edu.cn/), China. Advisor: Zhaoli Guo, Songze Chen.
 - [2012-2016] **B.Eng.** in Energy and Power Engineering, [Huazhong University of Science and Technology](https://www.hust.edu.cn/), China. Advisor: Zhaoli Guo, Songze Chen.
+
+#### Research areas
+
+Micro/nano Scale Heat Conduction; Phonon Transport; Mesoscopic Numerical Methods; Rarefied Gas Dynamics; Computational Fluid Dynamics;
 
 #### Papers
 
