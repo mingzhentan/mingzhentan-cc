@@ -16,14 +16,14 @@ Postdoc at Southern University of Science and Technology.
 
 - [2021-2023] **Postdoc** at [Southern University of Science and Technology](https://www.sustech.edu.cn/en/), China. Advisor: Lei Wu.
 - [2016-2021] **Ph.D.** in Engineering Thermal Physics, [Huazhong University of Science and Technology](https://www.hust.edu.cn/), China. Advisor: Zhaoli Guo, Songze Chen. [PhD thesis: 声子输运的介观数值方法及非傅里叶导热机理研究](https://www.researchgate.net/publication/351660598_PhD_thesis_written_in_Chinese_zhongwenboshibiyelunwen)
-- [2012-2016] **B.Eng.** in Energy and Power Engineering, [Huazhong University of Science and Technology](https://www.hust.edu.cn/), China. Advisor: Zhaoli Guo, Songze Chen. [Bachelor's thesis: 跨流域流动的高效隐式动理学方法及应用]
+- [2012-2016] **B.Eng.** in Energy and Power Engineering, [Huazhong University of Science and Technology](https://www.hust.edu.cn/), China. Advisor: Zhaoli Guo, Songze Chen. [Bachelor's thesis: 跨流域流动的高效隐式动理学方法及应用](https://www.researchgate.net/publication/369505786_kualiuyuliudongdegaoxiaoyinshifangfajiyingyongbenkebishe)
 
 #### Research areas
 
 - Micro/nano Scale Heat Transfer
 - Mesoscopic Numerical Methods
 - Rarefied Gas Dynamics
-- Phonon/Electron/Gas/Photon transport
+- Phonon/Electron/Photon transport
 
 #### Papers
 
