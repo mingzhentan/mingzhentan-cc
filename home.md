@@ -27,7 +27,7 @@ Postdoc at Southern University of Science and Technology.
 
 #### Papers
 
-- [2023] [Xinliang Song, Yue Zhang, Xiafeng Zhou*, Chuang Zhang, Zhaoli Guo*. Modified steady discrete unified gas kinetic scheme for multiscale radiative heat transfer. International Journal of Heat and Mass Transfer, Volume 203, April 2023, 123799](https://www.sciencedirect.com/science/article/abs/pii/S0017931022012674?via%3Dihub).
+- [2023] [Xinliang Song, Yue Zhang, Xiafeng Zhou*, Chuang Zhang, Zhaoli Guo*. Modified steady discrete unified gas kinetic scheme for multiscale radiative heat transfer. International Journal of Heat and Mass Transfer, 2023, 203: 123799](https://www.sciencedirect.com/science/article/abs/pii/S0017931022012674?via%3Dihub).
 <!--  -->
 - [2022] [Leheng Chen, Chuang Zhang, Jin Zhao*. Modeling Heat Conduction with Two-Dissipative Variables: A Mechanism-Data Fusion Method. arXiv:2212.11508](https://arxiv.org/abs/2212.11508).
 - [2022] [Chuang Zhang, Samuel Huberman, Xinliang Song, Jin Zhao, Songze Chen, Lei Wu*. Acceleration strategy of source iteration method for the stationary phonon Boltzmann transport equation. arxiv2212.05763](https://arxiv.org/abs/2212.05763).
