@@ -27,6 +27,7 @@ Postdoc at Southern University of Science and Technology.
 
 #### Papers
 
+- [2023] [Chuang Zhang, Rulei Guo, Meng Lian. Electron-phonon coupling and non-equilibrium thermal conduction in ultrafast heating systems. arXiv:2305.06567 [cond-mat.mes-hall]](https://arxiv.org/abs/2305.06567).
 - [2023] [Xinliang Song, Yue Zhang, Xiafeng Zhou*, Chuang Zhang, Zhaoli Guo*. Modified steady discrete unified gas kinetic scheme for multiscale radiative heat transfer. International Journal of Heat and Mass Transfer, 2023, 203: 123799](https://www.sciencedirect.com/science/article/abs/pii/S0017931022012674?via%3Dihub).
 <!--  -->
 - [2022] [Leheng Chen, Chuang Zhang, Jin Zhao*. Modeling Heat Conduction with Two-Dissipative Variables: A Mechanism-Data Fusion Method. arXiv:2212.11508](https://arxiv.org/abs/2212.11508).
