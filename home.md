@@ -32,7 +32,7 @@ Postdoc at Southern University of Science and Technology.
 - [2022] [Leheng Chen, Chuang Zhang, Jin Zhao*. Modeling Heat Conduction with Two-Dissipative Variables: A Mechanism-Data Fusion Method. arXiv:2212.11508](https://arxiv.org/abs/2212.11508).
 - [2022] [Chuang Zhang, Samuel Huberman, Xinliang Song, Jin Zhao, Songze Chen, Lei Wu*. Acceleration strategy of source iteration method for the stationary phonon Boltzmann transport equation. arxiv2212.05763](https://arxiv.org/abs/2212.05763).
 - [2022] [Chuang Zhang, Lei Wu*. Transient hydrodynamic phonon transport in two-dimensional disk geometry. arxiv2203.12958](https://arxiv.org/abs/2203.12958).
-- [2022] [Samuel Huberman, Chuang Zhang, Jamal Abou Haibeh. On the question of second sound in germanium: A theoretical viewpoint. arxiv2206.02769](https://arxiv.org/abs/2206.02769).
+- [2022] [Samuel Huberman*, Chuang Zhang, Jamal Abou Haibeh. On the question of second sound in germanium: A theoretical viewpoint. arxiv2206.02769](https://arxiv.org/abs/2206.02769).
 - [2022] [Chuang Zhang, Samuel Huberman, Lei Wu*. On the emergence of heat waves in the transient thermal grating geometry. Journal of Applied Physics. 132, 085103 (2022)](https://aip.scitation.org/doi/10.1063/5.0102227).
 - [2022] [Chuang Zhang, Lei Wu*. Nonmonotonic heat dissipation phenomenon in close-packed hotspot systems. Physical Review E, 106, 014111 (2022)](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.106.014111).
 - [2022] [Jia Liu, Chuang Zhang, Haizhuan Yuan, Wei Su*,  Lei Wu*. A fast-converging scheme for the phonon Boltzmann equation with dual relaxation times. Journal of Computational Physics, 467 (2022) 111436.](https://www.sciencedirect.com/science/article/pii/S0021999122004983?via%3Dihub).
